@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Bella ✨
 
-<!--
-**bellaandhercodes/bellaandhercodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer exploring the frontend. </br>
+This is my little corner for coding experiments and skill refreshers. </br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡️ Passionate about clean code & great UX </br>
+💡 Comfortable with : Java, C++, PHP, HTML, CSS </br>
+🚀 Currently learning : Swift, Python, JavaScript </br>
+🔥 Currently obsessed with : Swift programming </br>
+🌱 Also teaching myself UI/UX Design </br>
+🪐 Self-taught coder, cat lover & occasional problem-solver </br>
+📫 Open to new opportunities! Reach me at: nabilahhalid.work@gmail.com </br>
